@@ -1,4 +1,4 @@
-# Chatbot_With_UI
+# Chatbot
 
 Simple chatbot with a flask web interface.
 
@@ -8,31 +8,11 @@ Tools Used:
   1. LangChain framework: for user query synthesis and reply generation
   2. Flask: for web gui
   3. GPT-3.5: for language understanding
-  4. Linkedin blogpost: for current information retrieval; [Link](https://www.linkedin.com/pulse/insights-post-pandemic-economy-our-2024-global-market-rob-sharps-jcnmc)
+ 
 
 <br>
 
 
-### **Steps to run:**
-
-1. Download this github repository
-2. Create a virtual environment
-
-     `python -m venv venv`
-3. Activate the virtual environment
-
-    `source venv/bin/activate` or `venv/bin/activate` [for Windows]
-
-4. Install the requirements
-
-   `pip install -r requirements.txt`
-
-5. Add your OpenAI API key in a .env file
-6. On the terminal run the command below 
-
-     `python app.py`
-
-7. App should not be running on localhost default port
 
 <br>
 
